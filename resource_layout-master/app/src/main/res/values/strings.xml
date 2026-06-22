@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab04</string>
+    <string name="app_title">Lab 04</string>
+    <string name="label_name">Rizwan</string>
+    <string name="btn_submit">Submit</string>
+    <string name="hint_name">Rizwan Ahmed</string>
+</resources>
